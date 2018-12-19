@@ -6,7 +6,6 @@
 #include <vector>
 #include <cstdlib>
 #include <algorithm>
-#define first_size 40320
 using namespace std;
 
 int Sudoku[9][9] = { 
